@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  font-size: 1.5em;
+  color: rgb(20, 20, 20)
+}
+
+a {
+  text-decoration: none;
+  color: rgb(82, 82, 82)
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(81, 143, 201)
+}
